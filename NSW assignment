@@ -1,0 +1,18 @@
+Questions answered Using R and STATA
+1. Create subsamples
+  a)treatment - subset of NSW where treat=1
+  b)control - subset of NSW where treat = 0
+  c)blset - subset of NSW where black = 1
+  d)whset - subset of NSW where ethnic = 1
+  e)hset - subset of NSW where Hispanic = 1
+  f)Check – a subset of NSW where education=4
+  g)Check1– a subset of NSW where education=8
+  h)Check2 – a subset of NSW where education=12
+  i)Check3 – a subset of NSW where education=14
+R packages used :
+ATE - Title Inference for Average Treatment Effects using Covariate Balancing ; https://cran.r-project.org/web/packages/ATE/ATE.pdf 
+
+1)	
+What economic question is this program trying to answer?
+The objective is to praise the likely ability of econometric methods to accurately assess the economic benefits of employment and training programs. This particular subset is focused on the impact of the training program for less privileged individuals on their income.
+
