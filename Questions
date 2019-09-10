@@ -1,0 +1,38 @@
+1)	
+What economic question is this program trying to answer?What is the observation level?What is the randomization level?What is the intervention variable?What is the outcome variable?
+
+2)	
+What is the causal effect you are looking for? What causal effect can you hope to identify
+with randomization?
+
+3)	
+How many people are included in the dataset?
+What is the average age and level of education?
+What is the proportion of the participants in the program?
+
+
+4)
+Compare variable means for the treatment and control groups.Is the difference in the variable means as you expected?5) 
+
+5)
+Plot the empirical distribution of income in 1978, for both the treatment and the control
+group.
+
+6)
+What is the effect of the NSW on earnings? In absolute and relative terms.
+
+7) 
+Is the effect of the NSW on earnings significantly different from zero? 
+
+8)
+ Is the NSW program more effective among white, black or hispanic people?
+
+9) 
+Is the effect of NSW homogeneous across education levels?
+
+10)
+Estimate the treatment effect, this time controlling for demographic characteristics.
+Does adding the controls make a difference in the estimate (and how much of a difference given the standard errors)?
+Why would you want to add controls even in the case where you have
+experimental data?
+
